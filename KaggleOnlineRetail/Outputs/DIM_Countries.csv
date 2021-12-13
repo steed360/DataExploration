@@ -1,0 +1,44 @@
+Country,Continent,SubContinent,Quantity,SalesAmount,CountrySalesAmountQuintile,CountryRankSalesAmount
+United Kingdom,Europe,UK / Ireland,8310667,15654927.937014459,5,43.0
+EIRE,Europe,UK / Ireland,321979,596391.6100000098,5,42.0
+Germany,Europe,N. Europe,219880,408205.9410000006,5,40.0
+France,Europe,N. Europe,181700,322636.7599999973,5,39.0
+Netherlands,Europe,N. Europe,371129,533320.2200000031,5,41.0
+Spain,Europe,S. Europe,41880,83940.64999999944,5,35.0
+Switzerland,Europe,N. Europe,52158,99139.35999999968,5,37.0
+Belgium,Europe,N. Europe,34979,63126.8900000003,4,33.0
+Portugal,Europe,S. Europe,26483,50315.220000000234,4,32.0
+Australia,Australia,Australia,103653,167078.81999999975,5,38.0
+Channel Islands,Europe,N. Europe,20041,40508.230000000265,4,30.0
+Italy,Europe,S. Europe,15157,30281.150000000023,4,28.0
+Norway,Europe,N. Europe,26928,38757.72000000004,4,29.0
+Sweden,Europe,N. Europe,87731,87549.61999999997,5,36.0
+Cyprus,Europe,S. Europe,9352,20737.660000000014,3,25.0
+Finland,Europe,N. Europe,14183,28965.369999999963,4,27.0
+Austria,Europe,N. Europe,10742,21179.260000000017,3,26.0
+Denmark,Europe,N. Europe,234650,64356.63000000008,4,34.0
+Unspecified,Other,Other,6716,9687.319999999994,3,19.0
+Greece,Europe,S. Europe,7266,18384.54000000003,3,24.0
+Japan,Asia,Asia,32013,43985.32999999998,4,31.0
+USA,Americas,N. America,3699,6145.539999999997,2,16.0
+Poland,Europe,N. Europe,5378,10156.26999999999,3,20.0
+United Arab Emirates,Middle East,Middle East,6244,9469.109999999986,3,18.0
+Israel,Middle East,Middle East,5485,11107.219999999998,3,21.0
+Hong Kong,Asia,Asia,7075,14039.300000000023,3,23.0
+Singapore,Asia,Asia,6987,13158.159999999996,3,22.0
+Malta,Europe,S. Europe,2491,5192.219999999997,2,14.0
+Iceland,Europe,N. Europe,3286,5633.3199999999915,2,15.0
+Canada,Americas,N. America,3657,4883.039999999998,2,13.0
+Lithuania,Europe,E. Europe,2958,6553.740000000002,2,17.0
+RSA,Africa,Africa,1970,3369.0300000000025,2,12.0
+Bahrain,Middle East,Middle East,1275,2861.55,2,10.0
+Brazil,Americas,S. America,545,1411.87,1,8.0
+Thailand,Asia,Asia,2552,3070.539999999998,2,11.0
+Korea,Asia,Asia,598,949.8200000000002,1,5.0
+European Community,Europe,Other,497,1291.75,1,7.0
+Lebanon,Middle East,Middle East,457,1865.9100000000003,1,9.0
+West Indies,Americas,Islands,395,536.4099999999999,1,3.0
+Bermuda,Americas,Islands,2798,1253.1399999999999,1,6.0
+Nigeria,Africa,Africa,103,140.39,1,2.0
+Czech Republic,Europe,E. Europe,592,707.72,1,4.0
+Saudi Arabia,Middle East,Middle East,75,131.17,1,1.0
